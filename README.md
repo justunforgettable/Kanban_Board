@@ -18,12 +18,13 @@ A simple and interactive **Kanban Board** built using **HTML, CSS, and JavaScrip
 
 ## Project Structure
 
+```text
 kanban-board/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 ## Learning Outcomes
 
 This project demonstrates:
@@ -33,3 +34,4 @@ This project demonstrates:
 * Drag and Drop API
 * Responsive Web Design
 * JavaScript-based UI Development
+
